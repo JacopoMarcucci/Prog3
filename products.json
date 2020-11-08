@@ -1,0 +1,13 @@
+[
+  {"name": "Matrix", 
+  "photo_url": "https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2014/10/13/17/45687366.webp",
+  "price": 5.00,
+  "product": "dvd"
+  },
+   
+  {"name": "Nomadi", 
+  "photo_url": "https://static.lafeltrinelli.it/static/images-3/xxl/67/1963067.jpg",
+  "price": 6.99,
+  "product": "cd"
+  }
+]
